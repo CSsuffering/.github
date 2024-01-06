@@ -16,6 +16,6 @@
 
 &nbsp;
 
-<p>
+<p align="center">
     Come suffer with us doing computer science
 </p>
